@@ -4,13 +4,13 @@ using SchoolProject.Models;
 namespace SchoolProject.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")] // So final route = /api/Student/Login
+    [Route("api/[controller]")]
     public class StudentController : ControllerBase
     {
         [HttpPost("Login")]
         public IActionResult Login([FromBody] Login login)
         {
-            // Simulated login logic (replace with real DB check)
+            // Basic validation example
             if (login.Username == "admin" && login.Password == "password" && login.Initial == "stu")
             {
                 return Ok(new LoginResponse

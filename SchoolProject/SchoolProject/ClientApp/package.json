@@ -2,7 +2,7 @@
   "name": "schoolproject",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://localhost:44496/",
+  "proxy": "http://localhost:5172/",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "http-proxy-middleware": "^2.0.6",
