@@ -102,21 +102,19 @@
               "RelativeToolTip": "SchoolProject\\ClientApp\\src\\App.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-27T11:20:57.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:20:57.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SchoolProject",
+              "Title": "SchoolProject.csproj",
               "DocumentMoniker": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\SchoolProject\\SchoolProject.csproj",
               "RelativeDocumentMoniker": "SchoolProject\\SchoolProject.csproj",
               "ToolTip": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\SchoolProject\\SchoolProject.csproj",
               "RelativeToolTip": "SchoolProject\\SchoolProject.csproj",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-27T11:16:00.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:16:00.35Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "SchoolProject\\ClientApp\\package.json",
               "ViewState": "AgIAAD0AAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T11:15:14.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:15:14.776Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "SchoolProject\\Models\\Login.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAswA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:15:14.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:15:14.808Z"
             },
             {
               "$type": "Document",
@@ -176,8 +172,7 @@
               "RelativeToolTip": "SchoolProject\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA4wAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:15:14.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:15:14.855Z"
             },
             {
               "$type": "Document",
@@ -189,8 +184,7 @@
               "RelativeToolTip": "SchoolProject\\ClientApp\\src\\components\\StudentInfo.js",
               "ViewState": "AgIAACMAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-27T11:15:14.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:15:14.855Z"
             },
             {
               "$type": "Document",
@@ -238,8 +232,7 @@
               "RelativeToolTip": "SchoolProject\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:15:14.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:15:14.87Z"
             }
           ]
         }

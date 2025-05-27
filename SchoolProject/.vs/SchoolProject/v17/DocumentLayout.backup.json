@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|d:\\work folder\\react project\\react-project-school-\\schoolproject\\schoolproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|d:\\work folder\\react project\\react-project-school-\\schoolproject\\schoolproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|d:\\work folder\\react project\\react-project-school-\\schoolproject\\schoolproject\\clientapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\clientapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|d:\\work folder\\react project\\react-project-school-\\schoolproject\\schoolproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|solutionrelative:schoolproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F678884C-8AA8-4E27-B1F4-5BDBF3C8764F}|SchoolProject\\SchoolProject.csproj|d:\\work folder\\react project\\react-project-school-\\schoolproject\\schoolproject\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\SchoolProject\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SchoolProject\\Properties\\launchSettings.json",
               "ToolTip": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\SchoolProject\\Properties\\launchSettings.json",
               "RelativeToolTip": "SchoolProject\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-27T11:23:44.476Z",
               "EditorCaption": ""
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "package.json",
               "DocumentMoniker": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\SchoolProject\\ClientApp\\package.json",
               "RelativeDocumentMoniker": "SchoolProject\\ClientApp\\package.json",
@@ -168,13 +168,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\SchoolProject\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "SchoolProject\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\Work Folder\\React Project\\React-Project-School-\\SchoolProject\\SchoolProject\\Controllers\\StudentController.cs",
               "RelativeToolTip": "SchoolProject\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T11:15:14.855Z",
               "EditorCaption": ""
